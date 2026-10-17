@@ -85,6 +85,8 @@ Pairing and transfer progress updates operate via lightweight **Server-Sent Even
 3. **Session Expiry:** Stale sessions and uncompleted transfers are garbage-collected and destroyed automatically after 10 minutes of inactivity.
 
 ---
+> **Notice on Proprietary Code:**  
+> *The core server relay pipelines, automated buffer purge triggers, and production distribution assets are maintained under proprietary license. Technical architecture reviews and live code walkthroughs are available upon interview request.*
 
 ## 🌐 Live Application
 * **Web App:** [freemyphone.nexurastack.com](https://freemyphone.nexurastack.com)
